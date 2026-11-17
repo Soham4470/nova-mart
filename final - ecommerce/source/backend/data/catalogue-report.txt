@@ -1,0 +1,3000 @@
+ID: nova-catalog-492
+Name: Aero Analog Watch
+Category: Accessories
+Brand: Aero
+Description: Discover the Aero Analog Watch, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this accessories essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-catalog-493
+Name: Aero Leather Wallet
+Category: Accessories
+Brand: Aero
+Description: Discover the Aero Leather Wallet, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this accessories essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-demo-037
+Name: Aero Polarised Sunglasses
+Category: Accessories
+Brand: Aero Optics
+Description: Complete your look with sunglasses defined by a confident, contemporary silhouette. An adaptable accessory that brings visual distinction to relaxed weekends and considered everyday ensembles.
+------------------------------
+ID: nova-catalog-494
+Name: Aero Travel Backpack
+Category: Accessories
+Brand: Aero
+Description: Discover the Aero Travel Backpack, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this accessories essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-demo-038
+Name: Atlas Travel Duffle Bag
+Category: Accessories
+Brand: Atlas Travel
+Description: Approach every journey with a refined travel essential. Its versatile design and contemporary appearance make it suitable for short escapes, weekend plans and organised everyday travel.
+------------------------------
+ID: nova-demo-035
+Name: Cavalli Structured Handbag
+Category: Accessories
+Brand: Cavalli Studio
+Description: A sophisticated accessory that brings structure and character to modern styling. Its elegant profile transitions effortlessly between professional engagements, social occasions and everyday wear.
+------------------------------
+ID: nova-catalog-483
+Name: Chronos Analog Watch
+Category: Accessories
+Brand: Chronos
+Description: Discover the Chronos Analog Watch, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this accessories essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-demo-033
+Name: Chronos Classic Analog Watch
+Category: Accessories
+Brand: Chronos
+Description: A timeless expression of personal style, this analog watch pairs a refined visual identity with versatile everyday appeal. An elegant accessory for those who appreciate enduring design.
+------------------------------
+ID: nova-catalog-484
+Name: Chronos Leather Wallet
+Category: Accessories
+Brand: Chronos
+Description: Discover the Chronos Leather Wallet, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this accessories essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-catalog-485
+Name: Chronos Travel Backpack
+Category: Accessories
+Brand: Chronos
+Description: Discover the Chronos Travel Backpack, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this accessories essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-catalog-498
+Name: Executive Analog Watch
+Category: Accessories
+Brand: Executive
+Description: Discover the Executive Analog Watch, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this accessories essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-demo-040
+Name: Executive Card Holder
+Category: Accessories
+Brand: Executive Edit
+Description: Streamline your everyday carry with a compact accessory defined by clean, understated styling. A considered choice for keeping essential cards organised without compromising a polished appearance.
+------------------------------
+ID: nova-catalog-499
+Name: Executive Leather Wallet
+Category: Accessories
+Brand: Executive
+Description: Discover the Executive Leather Wallet, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this accessories essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-catalog-500
+Name: Executive Travel Backpack
+Category: Accessories
+Brand: Executive
+Description: Discover the Executive Travel Backpack, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this accessories essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-catalog-489
+Name: Monogram Analog Watch
+Category: Accessories
+Brand: Monogram
+Description: Discover the Monogram Analog Watch, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this accessories essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-demo-036
+Name: Monogram Leather Wallet
+Category: Accessories
+Brand: Monogram
+Description: A compact expression of understated refinement, designed to complement the essentials you carry every day. Its classic styling makes it a versatile addition to a thoughtfully curated accessories collection.
+------------------------------
+ID: nova-catalog-490
+Name: Monogram Leather Wallet
+Category: Accessories
+Brand: Monogram
+Description: Discover the Monogram Leather Wallet, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this accessories essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-catalog-491
+Name: Monogram Travel Backpack
+Category: Accessories
+Brand: Monogram
+Description: Discover the Monogram Travel Backpack, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this accessories essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-catalog-495
+Name: Sterling Analog Watch
+Category: Accessories
+Brand: Sterling
+Description: Discover the Sterling Analog Watch, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this accessories essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-catalog-496
+Name: Sterling Leather Wallet
+Category: Accessories
+Brand: Sterling
+Description: Discover the Sterling Leather Wallet, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this accessories essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-demo-039
+Name: Sterling Minimal Bracelet
+Category: Accessories
+Brand: Sterling House
+Description: A subtle statement of contemporary elegance, this bracelet complements both individual styling and layered accessory combinations. Its timeless appeal makes it an effortless finishing touch.
+------------------------------
+ID: nova-catalog-497
+Name: Sterling Travel Backpack
+Category: Accessories
+Brand: Sterling
+Description: Discover the Sterling Travel Backpack, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this accessories essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-catalog-486
+Name: Voyager Analog Watch
+Category: Accessories
+Brand: Voyager
+Description: Discover the Voyager Analog Watch, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this accessories essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-demo-034
+Name: Voyager Executive Backpack
+Category: Accessories
+Brand: Voyager
+Description: Designed for life in motion, this contemporary backpack offers a polished aesthetic for commuting, study and everyday journeys. Its versatile character complements both casual and professional settings.
+------------------------------
+ID: nova-catalog-487
+Name: Voyager Leather Wallet
+Category: Accessories
+Brand: Voyager
+Description: Discover the Voyager Leather Wallet, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this accessories essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-catalog-488
+Name: Voyager Travel Backpack
+Category: Accessories
+Brand: Voyager
+Description: Discover the Voyager Travel Backpack, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this accessories essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-catalog-478
+Name: Botanica Facial Serum
+Category: Beauty
+Brand: Botanica
+Description: Discover the Botanica Facial Serum, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this beauty essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-catalog-481
+Name: Botanica Hair Care Set
+Category: Beauty
+Brand: Botanica
+Description: Discover the Botanica Hair Care Set, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this beauty essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-catalog-480
+Name: Botanica Matte Lip Colour
+Category: Beauty
+Brand: Botanica
+Description: Discover the Botanica Matte Lip Colour, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this beauty essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-catalog-479
+Name: Botanica Moisturiser
+Category: Beauty
+Brand: Botanica
+Description: Discover the Botanica Moisturiser, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this beauty essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-catalog-482
+Name: Botanica Signature Fragrance
+Category: Beauty
+Brand: Botanica
+Description: Discover the Botanica Signature Fragrance, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this beauty essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-demo-029
+Name: Botanical Hair Care Collection
+Category: Beauty
+Brand: Botanica
+Description: Elevate everyday hair care with a coordinated collection inspired by contemporary self-care. Its thoughtfully curated presentation makes it an appealing addition to a refined grooming ritual.
+------------------------------
+ID: nova-catalog-473
+Name: Lumière Facial Serum
+Category: Beauty
+Brand: Lumière
+Description: Discover the Lumière Facial Serum, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this beauty essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-catalog-476
+Name: Lumière Hair Care Set
+Category: Beauty
+Brand: Lumière
+Description: Discover the Lumière Hair Care Set, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this beauty essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-demo-028
+Name: Lumière Hydrating Moisturiser
+Category: Beauty
+Brand: Lumière
+Description: Complete your daily skincare ritual with an elegantly presented moisturiser. Designed to complement a balanced routine, it brings a polished finishing touch to everyday personal care.
+------------------------------
+ID: nova-catalog-475
+Name: Lumière Matte Lip Colour
+Category: Beauty
+Brand: Lumière
+Description: Discover the Lumière Matte Lip Colour, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this beauty essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-catalog-474
+Name: Lumière Moisturiser
+Category: Beauty
+Brand: Lumière
+Description: Discover the Lumière Moisturiser, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this beauty essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-catalog-477
+Name: Lumière Signature Fragrance
+Category: Beauty
+Brand: Lumière
+Description: Discover the Lumière Signature Fragrance, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this beauty essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-demo-031
+Name: Noir Signature Fragrance
+Category: Beauty
+Brand: Noir Parfums
+Description: Make an unforgettable impression with a fragrance presented in a distinctly sophisticated style. Its refined character makes it a considered finishing touch for personal expression and memorable occasions.
+------------------------------
+ID: nova-demo-027
+Name: Pure Balance Facial Cleanser
+Category: Beauty
+Brand: Pure Ritual
+Description: Begin your skincare routine with a thoughtfully positioned facial cleanser. Its minimalist presentation and everyday versatility make it an essential addition to a considered personal-care collection.
+------------------------------
+ID: nova-catalog-468
+Name: Pure Facial Serum
+Category: Beauty
+Brand: Pure
+Description: Discover the Pure Facial Serum, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this beauty essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-catalog-471
+Name: Pure Hair Care Set
+Category: Beauty
+Brand: Pure
+Description: Discover the Pure Hair Care Set, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this beauty essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-catalog-470
+Name: Pure Matte Lip Colour
+Category: Beauty
+Brand: Pure
+Description: Discover the Pure Matte Lip Colour, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this beauty essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-catalog-469
+Name: Pure Moisturiser
+Category: Beauty
+Brand: Pure
+Description: Discover the Pure Moisturiser, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this beauty essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-catalog-472
+Name: Pure Signature Fragrance
+Category: Beauty
+Brand: Pure
+Description: Discover the Pure Signature Fragrance, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this beauty essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-demo-030
+Name: Satin Glow Body Lotion
+Category: Beauty
+Brand: Satin Glow
+Description: Bring a touch of everyday indulgence to your personal-care routine. This elegantly presented body lotion complements a considered approach to grooming and daily self-care.
+------------------------------
+ID: nova-demo-032
+Name: Silk Touch Makeup Brush Set
+Category: Beauty
+Brand: Silk Touch
+Description: Bring precision and elegance to your beauty routine with a coordinated makeup brush collection. A polished addition to any vanity, designed for a more organised and considered application experience.
+------------------------------
+ID: nova-catalog-463
+Name: Velvet Facial Serum
+Category: Beauty
+Brand: Velvet
+Description: Discover the Velvet Facial Serum, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this beauty essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-catalog-466
+Name: Velvet Hair Care Set
+Category: Beauty
+Brand: Velvet
+Description: Discover the Velvet Hair Care Set, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this beauty essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-demo-026
+Name: Velvet Matte Lip Colour
+Category: Beauty
+Brand: Velvet Edit
+Description: Make a confident statement with a beautifully presented matte lip colour. Its versatile appeal complements both understated daytime looks and more expressive evening styling.
+------------------------------
+ID: nova-catalog-465
+Name: Velvet Matte Lip Colour
+Category: Beauty
+Brand: Velvet
+Description: Discover the Velvet Matte Lip Colour, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this beauty essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-catalog-464
+Name: Velvet Moisturiser
+Category: Beauty
+Brand: Velvet
+Description: Discover the Velvet Moisturiser, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this beauty essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-catalog-467
+Name: Velvet Signature Fragrance
+Category: Beauty
+Brand: Velvet
+Description: Discover the Velvet Signature Fragrance, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this beauty essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-catalog-458
+Name: Éclat Facial Serum
+Category: Beauty
+Brand: Éclat
+Description: Discover the Éclat Facial Serum, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this beauty essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-catalog-461
+Name: Éclat Hair Care Set
+Category: Beauty
+Brand: Éclat
+Description: Discover the Éclat Hair Care Set, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this beauty essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-catalog-460
+Name: Éclat Matte Lip Colour
+Category: Beauty
+Brand: Éclat
+Description: Discover the Éclat Matte Lip Colour, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this beauty essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-catalog-459
+Name: Éclat Moisturiser
+Category: Beauty
+Brand: Éclat
+Description: Discover the Éclat Moisturiser, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this beauty essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-demo-025
+Name: Éclat Radiance Serum
+Category: Beauty
+Brand: Éclat Beauty
+Description: Introduce a considered step to your skincare ritual with this elegant facial serum. Designed for a refined daily routine, its sophisticated presentation makes skincare feel like an intentional moment of self-care.
+------------------------------
+ID: nova-catalog-462
+Name: Éclat Signature Fragrance
+Category: Beauty
+Brand: Éclat
+Description: Discover the Éclat Signature Fragrance, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this beauty essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-catalog-346
+Name: Auraluxe Bluetooth Speaker
+Category: Electronics
+Brand: Auraluxe
+Description: Discover the Auraluxe Bluetooth Speaker, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this electronics essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-catalog-344
+Name: Auraluxe Laptop
+Category: Electronics
+Brand: Auraluxe
+Description: Discover the Auraluxe Laptop, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this electronics essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-catalog-343
+Name: Auraluxe Smartphone
+Category: Electronics
+Brand: Auraluxe
+Description: Discover the Auraluxe Smartphone, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this electronics essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-catalog-347
+Name: Auraluxe Smartwatch
+Category: Electronics
+Brand: Auraluxe
+Description: Discover the Auraluxe Smartwatch, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this electronics essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-catalog-345
+Name: Auraluxe Wireless Earbuds
+Category: Electronics
+Brand: Auraluxe
+Description: Discover the Auraluxe Wireless Earbuds, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this electronics essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-demo-001
+Name: Auraluxe Wireless Headphones
+Category: Electronics
+Brand: Auraluxe
+Description: Immerse yourself in a world of refined sound with these elegantly designed wireless headphones. A contemporary silhouette, intuitive connectivity and considered comfort make them an exceptional companion for music, entertainment and everyday listening.
+------------------------------
+ID: nova-demo-007
+Name: Clarity Wireless Earbuds
+Category: Electronics
+Brand: Clarity
+Description: Discover a more effortless listening experience with compact wireless earbuds. Designed for everyday convenience, their discreet profile and portable form make them a natural companion for commuting, calls and personal entertainment.
+------------------------------
+ID: nova-catalog-376
+Name: Lumina Bluetooth Speaker
+Category: Electronics
+Brand: Lumina
+Description: Discover the Lumina Bluetooth Speaker, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this electronics essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-catalog-374
+Name: Lumina Laptop
+Category: Electronics
+Brand: Lumina
+Description: Discover the Lumina Laptop, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this electronics essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-demo-004
+Name: Lumina Mirrorless Camera
+Category: Electronics
+Brand: Lumina
+Description: Capture meaningful moments with a camera designed around creative expression. Its sophisticated form and versatile photographic experience make it an appealing choice for enthusiasts seeking greater control over their visual storytelling.
+------------------------------
+ID: nova-catalog-373
+Name: Lumina Smartphone
+Category: Electronics
+Brand: Lumina
+Description: Discover the Lumina Smartphone, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this electronics essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-catalog-377
+Name: Lumina Smartwatch
+Category: Electronics
+Brand: Lumina
+Description: Discover the Lumina Smartwatch, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this electronics essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-catalog-375
+Name: Lumina Wireless Earbuds
+Category: Electronics
+Brand: Lumina
+Description: Discover the Lumina Wireless Earbuds, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this electronics essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-catalog-336
+Name: Nova Bluetooth Speaker
+Category: Electronics
+Brand: Nova
+Description: Discover the Nova Bluetooth Speaker, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this electronics essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-catalog-334
+Name: Nova Laptop
+Category: Electronics
+Brand: Nova
+Description: Discover the Nova Laptop, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this electronics essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-catalog-333
+Name: Nova Smartphone
+Category: Electronics
+Brand: Nova
+Description: Discover the Nova Smartphone, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this electronics essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-catalog-337
+Name: Nova Smartwatch
+Category: Electronics
+Brand: Nova
+Description: Discover the Nova Smartwatch, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this electronics essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-catalog-335
+Name: Nova Wireless Earbuds
+Category: Electronics
+Brand: Nova
+Description: Discover the Nova Wireless Earbuds, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this electronics essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-demo-008
+Name: NovaView 4K Monitor
+Category: Electronics
+Brand: NovaView
+Description: Bring clarity and visual refinement to your workspace with a contemporary monitor. Its elegant presentation makes it suitable for focused productivity, creative projects and immersive everyday viewing.
+------------------------------
+ID: nova-catalog-356
+Name: Pixel Bluetooth Speaker
+Category: Electronics
+Brand: Pixel
+Description: Discover the Pixel Bluetooth Speaker, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this electronics essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-catalog-354
+Name: Pixel Laptop
+Category: Electronics
+Brand: Pixel
+Description: Discover the Pixel Laptop, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this electronics essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-catalog-353
+Name: Pixel Smartphone
+Category: Electronics
+Brand: Pixel
+Description: Discover the Pixel Smartphone, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this electronics essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-catalog-357
+Name: Pixel Smartwatch
+Category: Electronics
+Brand: Pixel
+Description: Discover the Pixel Smartwatch, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this electronics essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-catalog-355
+Name: Pixel Wireless Earbuds
+Category: Electronics
+Brand: Pixel
+Description: Discover the Pixel Wireless Earbuds, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this electronics essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-catalog-371
+Name: Pulse Bluetooth Speaker
+Category: Electronics
+Brand: Pulse
+Description: Discover the Pulse Bluetooth Speaker, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this electronics essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-catalog-369
+Name: Pulse Laptop
+Category: Electronics
+Brand: Pulse
+Description: Discover the Pulse Laptop, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this electronics essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-catalog-368
+Name: Pulse Smartphone
+Category: Electronics
+Brand: Pulse
+Description: Discover the Pulse Smartphone, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this electronics essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-catalog-372
+Name: Pulse Smartwatch
+Category: Electronics
+Brand: Pulse
+Description: Discover the Pulse Smartwatch, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this electronics essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-catalog-370
+Name: Pulse Wireless Earbuds
+Category: Electronics
+Brand: Pulse
+Description: Discover the Pulse Wireless Earbuds, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this electronics essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-demo-006
+Name: PulseFit Smartwatch
+Category: Electronics
+Brand: PulseFit
+Description: A contemporary wearable that complements an active, connected lifestyle. Its modern design brings everyday convenience and personal technology together in a versatile accessory suited to work, leisure and movement.
+------------------------------
+ID: nova-catalog-361
+Name: Quantum Bluetooth Speaker
+Category: Electronics
+Brand: Quantum
+Description: Discover the Quantum Bluetooth Speaker, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this electronics essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-catalog-359
+Name: Quantum Laptop
+Category: Electronics
+Brand: Quantum
+Description: Discover the Quantum Laptop, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this electronics essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-catalog-358
+Name: Quantum Smartphone
+Category: Electronics
+Brand: Quantum
+Description: Discover the Quantum Smartphone, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this electronics essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-catalog-362
+Name: Quantum Smartwatch
+Category: Electronics
+Brand: Quantum
+Description: Discover the Quantum Smartwatch, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this electronics essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-catalog-360
+Name: Quantum Wireless Earbuds
+Category: Electronics
+Brand: Quantum
+Description: Discover the Quantum Wireless Earbuds, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this electronics essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-catalog-351
+Name: Sonic Bluetooth Speaker
+Category: Electronics
+Brand: Sonic
+Description: Discover the Sonic Bluetooth Speaker, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this electronics essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-catalog-349
+Name: Sonic Laptop
+Category: Electronics
+Brand: Sonic
+Description: Discover the Sonic Laptop, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this electronics essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-catalog-348
+Name: Sonic Smartphone
+Category: Electronics
+Brand: Sonic
+Description: Discover the Sonic Smartphone, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this electronics essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-catalog-352
+Name: Sonic Smartwatch
+Category: Electronics
+Brand: Sonic
+Description: Discover the Sonic Smartwatch, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this electronics essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-catalog-350
+Name: Sonic Wireless Earbuds
+Category: Electronics
+Brand: Sonic
+Description: Discover the Sonic Wireless Earbuds, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this electronics essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-demo-005
+Name: SonicArc Bluetooth Speaker
+Category: Electronics
+Brand: SonicArc
+Description: Bring atmosphere to every setting with a contemporary portable speaker. A clean, compact profile and convenient wireless listening create an effortless audio companion for relaxed evenings and everyday adventures.
+------------------------------
+ID: nova-demo-003
+Name: StudioBook Performance Laptop
+Category: Electronics
+Brand: StudioBook
+Description: A refined computing companion created for productivity, creativity and seamless everyday workflows. Its understated design complements a versatile experience, whether you are working, studying or exploring new ideas.
+------------------------------
+ID: nova-catalog-341
+Name: Vertex Bluetooth Speaker
+Category: Electronics
+Brand: Vertex
+Description: Discover the Vertex Bluetooth Speaker, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this electronics essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-catalog-339
+Name: Vertex Laptop
+Category: Electronics
+Brand: Vertex
+Description: Discover the Vertex Laptop, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this electronics essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-demo-002
+Name: Vertex Pro Smartphone
+Category: Electronics
+Brand: Vertex
+Description: Designed for a connected lifestyle, this sophisticated smartphone brings contemporary aesthetics and everyday functionality together. Its streamlined profile and versatile design make it a compelling choice for modern digital experiences.
+------------------------------
+ID: nova-catalog-338
+Name: Vertex Smartphone
+Category: Electronics
+Brand: Vertex
+Description: Discover the Vertex Smartphone, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this electronics essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-catalog-342
+Name: Vertex Smartwatch
+Category: Electronics
+Brand: Vertex
+Description: Discover the Vertex Smartwatch, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this electronics essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-catalog-340
+Name: Vertex Wireless Earbuds
+Category: Electronics
+Brand: Vertex
+Description: Discover the Vertex Wireless Earbuds, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this electronics essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-catalog-366
+Name: Zenith Bluetooth Speaker
+Category: Electronics
+Brand: Zenith
+Description: Discover the Zenith Bluetooth Speaker, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this electronics essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-catalog-364
+Name: Zenith Laptop
+Category: Electronics
+Brand: Zenith
+Description: Discover the Zenith Laptop, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this electronics essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-catalog-363
+Name: Zenith Smartphone
+Category: Electronics
+Brand: Zenith
+Description: Discover the Zenith Smartphone, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this electronics essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-catalog-367
+Name: Zenith Smartwatch
+Category: Electronics
+Brand: Zenith
+Description: Discover the Zenith Smartwatch, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this electronics essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-catalog-365
+Name: Zenith Wireless Earbuds
+Category: Electronics
+Brand: Zenith
+Description: Discover the Zenith Wireless Earbuds, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this electronics essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-catalog-064
+Name: Arden Activewear Set
+Category: Fashion
+Brand: Arden
+Description: Discover the Arden Activewear Set, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this fashion essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-catalog-059
+Name: Arden Casual Jacket
+Category: Fashion
+Brand: Arden
+Description: Discover the Arden Casual Jacket, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this fashion essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-catalog-057
+Name: Arden Classic Trousers
+Category: Fashion
+Brand: Arden
+Description: Discover the Arden Classic Trousers, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this fashion essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-catalog-063
+Name: Arden Cotton Kurta
+Category: Fashion
+Brand: Arden
+Description: Discover the Arden Cotton Kurta, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this fashion essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-catalog-060
+Name: Arden Everyday Sneakers
+Category: Fashion
+Brand: Arden
+Description: Discover the Arden Everyday Sneakers, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this fashion essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-catalog-062
+Name: Arden Formal Blazer
+Category: Fashion
+Brand: Arden
+Description: Discover the Arden Formal Blazer, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this fashion essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-catalog-055
+Name: Arden Polo Shirt
+Category: Fashion
+Brand: Arden
+Description: Discover the Arden Polo Shirt, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this fashion essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-catalog-054
+Name: Arden Premium T-Shirt
+Category: Fashion
+Brand: Arden
+Description: Discover the Arden Premium T-Shirt, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this fashion essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-catalog-056
+Name: Arden Straight-Fit Jeans
+Category: Fashion
+Brand: Arden
+Description: Discover the Arden Straight-Fit Jeans, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this fashion essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-catalog-061
+Name: Arden Summer Dress
+Category: Fashion
+Brand: Arden
+Description: Discover the Arden Summer Dress, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this fashion essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-catalog-053
+Name: Arden Tailored Shirt
+Category: Fashion
+Brand: Arden
+Description: Discover the Arden Tailored Shirt, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this fashion essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-catalog-058
+Name: Arden Zip Hoodie
+Category: Fashion
+Brand: Arden
+Description: Discover the Arden Zip Hoodie, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this fashion essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-catalog-052
+Name: Aster Activewear Set
+Category: Fashion
+Brand: Aster
+Description: Discover the Aster Activewear Set, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this fashion essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-catalog-047
+Name: Aster Casual Jacket
+Category: Fashion
+Brand: Aster
+Description: Discover the Aster Casual Jacket, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this fashion essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-catalog-045
+Name: Aster Classic Trousers
+Category: Fashion
+Brand: Aster
+Description: Discover the Aster Classic Trousers, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this fashion essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-catalog-051
+Name: Aster Cotton Kurta
+Category: Fashion
+Brand: Aster
+Description: Discover the Aster Cotton Kurta, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this fashion essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-catalog-048
+Name: Aster Everyday Sneakers
+Category: Fashion
+Brand: Aster
+Description: Discover the Aster Everyday Sneakers, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this fashion essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-catalog-050
+Name: Aster Formal Blazer
+Category: Fashion
+Brand: Aster
+Description: Discover the Aster Formal Blazer, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this fashion essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-catalog-043
+Name: Aster Polo Shirt
+Category: Fashion
+Brand: Aster
+Description: Discover the Aster Polo Shirt, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this fashion essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-catalog-042
+Name: Aster Premium T-Shirt
+Category: Fashion
+Brand: Aster
+Description: Discover the Aster Premium T-Shirt, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this fashion essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-catalog-044
+Name: Aster Straight-Fit Jeans
+Category: Fashion
+Brand: Aster
+Description: Discover the Aster Straight-Fit Jeans, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this fashion essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-catalog-049
+Name: Aster Summer Dress
+Category: Fashion
+Brand: Aster
+Description: Discover the Aster Summer Dress, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this fashion essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-catalog-041
+Name: Aster Tailored Shirt
+Category: Fashion
+Brand: Aster
+Description: Discover the Aster Tailored Shirt, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this fashion essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-catalog-046
+Name: Aster Zip Hoodie
+Category: Fashion
+Brand: Aster
+Description: Discover the Aster Zip Hoodie, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this fashion essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-catalog-088
+Name: Atlas Activewear Set
+Category: Fashion
+Brand: Atlas
+Description: Discover the Atlas Activewear Set, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this fashion essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-catalog-083
+Name: Atlas Casual Jacket
+Category: Fashion
+Brand: Atlas
+Description: Discover the Atlas Casual Jacket, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this fashion essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-catalog-081
+Name: Atlas Classic Trousers
+Category: Fashion
+Brand: Atlas
+Description: Discover the Atlas Classic Trousers, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this fashion essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-catalog-087
+Name: Atlas Cotton Kurta
+Category: Fashion
+Brand: Atlas
+Description: Discover the Atlas Cotton Kurta, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this fashion essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-catalog-084
+Name: Atlas Everyday Sneakers
+Category: Fashion
+Brand: Atlas
+Description: Discover the Atlas Everyday Sneakers, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this fashion essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-catalog-086
+Name: Atlas Formal Blazer
+Category: Fashion
+Brand: Atlas
+Description: Discover the Atlas Formal Blazer, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this fashion essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-catalog-079
+Name: Atlas Polo Shirt
+Category: Fashion
+Brand: Atlas
+Description: Discover the Atlas Polo Shirt, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this fashion essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-catalog-078
+Name: Atlas Premium T-Shirt
+Category: Fashion
+Brand: Atlas
+Description: Discover the Atlas Premium T-Shirt, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this fashion essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-catalog-080
+Name: Atlas Straight-Fit Jeans
+Category: Fashion
+Brand: Atlas
+Description: Discover the Atlas Straight-Fit Jeans, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this fashion essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-catalog-085
+Name: Atlas Summer Dress
+Category: Fashion
+Brand: Atlas
+Description: Discover the Atlas Summer Dress, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this fashion essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-catalog-077
+Name: Atlas Tailored Shirt
+Category: Fashion
+Brand: Atlas
+Description: Discover the Atlas Tailored Shirt, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this fashion essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-catalog-082
+Name: Atlas Zip Hoodie
+Category: Fashion
+Brand: Atlas
+Description: Discover the Atlas Zip Hoodie, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this fashion essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-catalog-076
+Name: Aurelia Activewear Set
+Category: Fashion
+Brand: Aurelia
+Description: Discover the Aurelia Activewear Set, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this fashion essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-catalog-071
+Name: Aurelia Casual Jacket
+Category: Fashion
+Brand: Aurelia
+Description: Discover the Aurelia Casual Jacket, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this fashion essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-catalog-069
+Name: Aurelia Classic Trousers
+Category: Fashion
+Brand: Aurelia
+Description: Discover the Aurelia Classic Trousers, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this fashion essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-catalog-075
+Name: Aurelia Cotton Kurta
+Category: Fashion
+Brand: Aurelia
+Description: Discover the Aurelia Cotton Kurta, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this fashion essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-catalog-072
+Name: Aurelia Everyday Sneakers
+Category: Fashion
+Brand: Aurelia
+Description: Discover the Aurelia Everyday Sneakers, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this fashion essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-catalog-074
+Name: Aurelia Formal Blazer
+Category: Fashion
+Brand: Aurelia
+Description: Discover the Aurelia Formal Blazer, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this fashion essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-catalog-067
+Name: Aurelia Polo Shirt
+Category: Fashion
+Brand: Aurelia
+Description: Discover the Aurelia Polo Shirt, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this fashion essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-catalog-066
+Name: Aurelia Premium T-Shirt
+Category: Fashion
+Brand: Aurelia
+Description: Discover the Aurelia Premium T-Shirt, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this fashion essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-demo-011
+Name: Aurelia Silk-Feel Dress
+Category: Fashion
+Brand: Aurelia
+Description: Express understated elegance through a fluid, feminine silhouette. Designed to transition gracefully between daytime occasions and evening engagements, this statement piece brings sophistication to contemporary dressing.
+------------------------------
+ID: nova-catalog-068
+Name: Aurelia Straight-Fit Jeans
+Category: Fashion
+Brand: Aurelia
+Description: Discover the Aurelia Straight-Fit Jeans, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this fashion essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-catalog-073
+Name: Aurelia Summer Dress
+Category: Fashion
+Brand: Aurelia
+Description: Discover the Aurelia Summer Dress, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this fashion essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-catalog-065
+Name: Aurelia Tailored Shirt
+Category: Fashion
+Brand: Aurelia
+Description: Discover the Aurelia Tailored Shirt, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this fashion essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-catalog-070
+Name: Aurelia Zip Hoodie
+Category: Fashion
+Brand: Aurelia
+Description: Discover the Aurelia Zip Hoodie, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this fashion essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-catalog-100
+Name: Aurora Activewear Set
+Category: Fashion
+Brand: Aurora
+Description: Discover the Aurora Activewear Set, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this fashion essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-catalog-095
+Name: Aurora Casual Jacket
+Category: Fashion
+Brand: Aurora
+Description: Discover the Aurora Casual Jacket, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this fashion essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-catalog-093
+Name: Aurora Classic Trousers
+Category: Fashion
+Brand: Aurora
+Description: Discover the Aurora Classic Trousers, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this fashion essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-catalog-099
+Name: Aurora Cotton Kurta
+Category: Fashion
+Brand: Aurora
+Description: Discover the Aurora Cotton Kurta, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this fashion essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-catalog-096
+Name: Aurora Everyday Sneakers
+Category: Fashion
+Brand: Aurora
+Description: Discover the Aurora Everyday Sneakers, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this fashion essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-catalog-098
+Name: Aurora Formal Blazer
+Category: Fashion
+Brand: Aurora
+Description: Discover the Aurora Formal Blazer, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this fashion essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-catalog-091
+Name: Aurora Polo Shirt
+Category: Fashion
+Brand: Aurora
+Description: Discover the Aurora Polo Shirt, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this fashion essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-catalog-090
+Name: Aurora Premium T-Shirt
+Category: Fashion
+Brand: Aurora
+Description: Discover the Aurora Premium T-Shirt, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this fashion essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-catalog-092
+Name: Aurora Straight-Fit Jeans
+Category: Fashion
+Brand: Aurora
+Description: Discover the Aurora Straight-Fit Jeans, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this fashion essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-catalog-097
+Name: Aurora Summer Dress
+Category: Fashion
+Brand: Aurora
+Description: Discover the Aurora Summer Dress, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this fashion essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-catalog-089
+Name: Aurora Tailored Shirt
+Category: Fashion
+Brand: Aurora
+Description: Discover the Aurora Tailored Shirt, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this fashion essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-catalog-094
+Name: Aurora Zip Hoodie
+Category: Fashion
+Brand: Aurora
+Description: Discover the Aurora Zip Hoodie, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this fashion essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-catalog-112
+Name: Briar Activewear Set
+Category: Fashion
+Brand: Briar
+Description: Discover the Briar Activewear Set, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this fashion essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-catalog-107
+Name: Briar Casual Jacket
+Category: Fashion
+Brand: Briar
+Description: Discover the Briar Casual Jacket, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this fashion essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-catalog-105
+Name: Briar Classic Trousers
+Category: Fashion
+Brand: Briar
+Description: Discover the Briar Classic Trousers, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this fashion essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-catalog-111
+Name: Briar Cotton Kurta
+Category: Fashion
+Brand: Briar
+Description: Discover the Briar Cotton Kurta, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this fashion essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-catalog-108
+Name: Briar Everyday Sneakers
+Category: Fashion
+Brand: Briar
+Description: Discover the Briar Everyday Sneakers, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this fashion essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-catalog-110
+Name: Briar Formal Blazer
+Category: Fashion
+Brand: Briar
+Description: Discover the Briar Formal Blazer, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this fashion essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-catalog-103
+Name: Briar Polo Shirt
+Category: Fashion
+Brand: Briar
+Description: Discover the Briar Polo Shirt, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this fashion essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-catalog-102
+Name: Briar Premium T-Shirt
+Category: Fashion
+Brand: Briar
+Description: Discover the Briar Premium T-Shirt, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this fashion essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-catalog-104
+Name: Briar Straight-Fit Jeans
+Category: Fashion
+Brand: Briar
+Description: Discover the Briar Straight-Fit Jeans, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this fashion essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-catalog-109
+Name: Briar Summer Dress
+Category: Fashion
+Brand: Briar
+Description: Discover the Briar Summer Dress, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this fashion essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-catalog-101
+Name: Briar Tailored Shirt
+Category: Fashion
+Brand: Briar
+Description: Discover the Briar Tailored Shirt, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this fashion essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-catalog-106
+Name: Briar Zip Hoodie
+Category: Fashion
+Brand: Briar
+Description: Discover the Briar Zip Hoodie, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this fashion essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-catalog-124
+Name: Cedar Activewear Set
+Category: Fashion
+Brand: Cedar
+Description: Discover the Cedar Activewear Set, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this fashion essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-catalog-119
+Name: Cedar Casual Jacket
+Category: Fashion
+Brand: Cedar
+Description: Discover the Cedar Casual Jacket, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this fashion essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-catalog-117
+Name: Cedar Classic Trousers
+Category: Fashion
+Brand: Cedar
+Description: Discover the Cedar Classic Trousers, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this fashion essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-catalog-123
+Name: Cedar Cotton Kurta
+Category: Fashion
+Brand: Cedar
+Description: Discover the Cedar Cotton Kurta, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this fashion essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-catalog-120
+Name: Cedar Everyday Sneakers
+Category: Fashion
+Brand: Cedar
+Description: Discover the Cedar Everyday Sneakers, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this fashion essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-catalog-122
+Name: Cedar Formal Blazer
+Category: Fashion
+Brand: Cedar
+Description: Discover the Cedar Formal Blazer, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this fashion essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-catalog-115
+Name: Cedar Polo Shirt
+Category: Fashion
+Brand: Cedar
+Description: Discover the Cedar Polo Shirt, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this fashion essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-catalog-114
+Name: Cedar Premium T-Shirt
+Category: Fashion
+Brand: Cedar
+Description: Discover the Cedar Premium T-Shirt, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this fashion essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-catalog-116
+Name: Cedar Straight-Fit Jeans
+Category: Fashion
+Brand: Cedar
+Description: Discover the Cedar Straight-Fit Jeans, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this fashion essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-catalog-121
+Name: Cedar Summer Dress
+Category: Fashion
+Brand: Cedar
+Description: Discover the Cedar Summer Dress, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this fashion essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-catalog-113
+Name: Cedar Tailored Shirt
+Category: Fashion
+Brand: Cedar
+Description: Discover the Cedar Tailored Shirt, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this fashion essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-catalog-118
+Name: Cedar Zip Hoodie
+Category: Fashion
+Brand: Cedar
+Description: Discover the Cedar Zip Hoodie, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this fashion essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-catalog-136
+Name: Celeste Activewear Set
+Category: Fashion
+Brand: Celeste
+Description: Discover the Celeste Activewear Set, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this fashion essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-catalog-131
+Name: Celeste Casual Jacket
+Category: Fashion
+Brand: Celeste
+Description: Discover the Celeste Casual Jacket, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this fashion essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-catalog-129
+Name: Celeste Classic Trousers
+Category: Fashion
+Brand: Celeste
+Description: Discover the Celeste Classic Trousers, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this fashion essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-catalog-135
+Name: Celeste Cotton Kurta
+Category: Fashion
+Brand: Celeste
+Description: Discover the Celeste Cotton Kurta, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this fashion essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-catalog-132
+Name: Celeste Everyday Sneakers
+Category: Fashion
+Brand: Celeste
+Description: Discover the Celeste Everyday Sneakers, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this fashion essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-catalog-134
+Name: Celeste Formal Blazer
+Category: Fashion
+Brand: Celeste
+Description: Discover the Celeste Formal Blazer, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this fashion essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-catalog-127
+Name: Celeste Polo Shirt
+Category: Fashion
+Brand: Celeste
+Description: Discover the Celeste Polo Shirt, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this fashion essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-catalog-126
+Name: Celeste Premium T-Shirt
+Category: Fashion
+Brand: Celeste
+Description: Discover the Celeste Premium T-Shirt, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this fashion essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-catalog-128
+Name: Celeste Straight-Fit Jeans
+Category: Fashion
+Brand: Celeste
+Description: Discover the Celeste Straight-Fit Jeans, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this fashion essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-catalog-133
+Name: Celeste Summer Dress
+Category: Fashion
+Brand: Celeste
+Description: Discover the Celeste Summer Dress, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this fashion essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-catalog-125
+Name: Celeste Tailored Shirt
+Category: Fashion
+Brand: Celeste
+Description: Discover the Celeste Tailored Shirt, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this fashion essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-catalog-130
+Name: Celeste Zip Hoodie
+Category: Fashion
+Brand: Celeste
+Description: Discover the Celeste Zip Hoodie, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this fashion essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-catalog-148
+Name: Clover Activewear Set
+Category: Fashion
+Brand: Clover
+Description: Discover the Clover Activewear Set, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this fashion essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-catalog-143
+Name: Clover Casual Jacket
+Category: Fashion
+Brand: Clover
+Description: Discover the Clover Casual Jacket, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this fashion essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-catalog-141
+Name: Clover Classic Trousers
+Category: Fashion
+Brand: Clover
+Description: Discover the Clover Classic Trousers, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this fashion essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-catalog-147
+Name: Clover Cotton Kurta
+Category: Fashion
+Brand: Clover
+Description: Discover the Clover Cotton Kurta, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this fashion essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-catalog-144
+Name: Clover Everyday Sneakers
+Category: Fashion
+Brand: Clover
+Description: Discover the Clover Everyday Sneakers, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this fashion essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-catalog-146
+Name: Clover Formal Blazer
+Category: Fashion
+Brand: Clover
+Description: Discover the Clover Formal Blazer, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this fashion essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-catalog-139
+Name: Clover Polo Shirt
+Category: Fashion
+Brand: Clover
+Description: Discover the Clover Polo Shirt, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this fashion essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-catalog-138
+Name: Clover Premium T-Shirt
+Category: Fashion
+Brand: Clover
+Description: Discover the Clover Premium T-Shirt, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this fashion essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-catalog-140
+Name: Clover Straight-Fit Jeans
+Category: Fashion
+Brand: Clover
+Description: Discover the Clover Straight-Fit Jeans, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this fashion essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-catalog-145
+Name: Clover Summer Dress
+Category: Fashion
+Brand: Clover
+Description: Discover the Clover Summer Dress, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this fashion essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-catalog-137
+Name: Clover Tailored Shirt
+Category: Fashion
+Brand: Clover
+Description: Discover the Clover Tailored Shirt, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this fashion essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-catalog-142
+Name: Clover Zip Hoodie
+Category: Fashion
+Brand: Clover
+Description: Discover the Clover Zip Hoodie, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this fashion essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-catalog-160
+Name: Cove Activewear Set
+Category: Fashion
+Brand: Cove
+Description: Discover the Cove Activewear Set, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this fashion essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-catalog-155
+Name: Cove Casual Jacket
+Category: Fashion
+Brand: Cove
+Description: Discover the Cove Casual Jacket, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this fashion essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-catalog-153
+Name: Cove Classic Trousers
+Category: Fashion
+Brand: Cove
+Description: Discover the Cove Classic Trousers, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this fashion essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-catalog-159
+Name: Cove Cotton Kurta
+Category: Fashion
+Brand: Cove
+Description: Discover the Cove Cotton Kurta, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this fashion essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-catalog-156
+Name: Cove Everyday Sneakers
+Category: Fashion
+Brand: Cove
+Description: Discover the Cove Everyday Sneakers, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this fashion essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-catalog-158
+Name: Cove Formal Blazer
+Category: Fashion
+Brand: Cove
+Description: Discover the Cove Formal Blazer, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this fashion essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-catalog-151
+Name: Cove Polo Shirt
+Category: Fashion
+Brand: Cove
+Description: Discover the Cove Polo Shirt, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this fashion essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-catalog-150
+Name: Cove Premium T-Shirt
+Category: Fashion
+Brand: Cove
+Description: Discover the Cove Premium T-Shirt, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this fashion essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-catalog-152
+Name: Cove Straight-Fit Jeans
+Category: Fashion
+Brand: Cove
+Description: Discover the Cove Straight-Fit Jeans, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this fashion essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-catalog-157
+Name: Cove Summer Dress
+Category: Fashion
+Brand: Cove
+Description: Discover the Cove Summer Dress, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this fashion essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-catalog-149
+Name: Cove Tailored Shirt
+Category: Fashion
+Brand: Cove
+Description: Discover the Cove Tailored Shirt, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this fashion essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-catalog-154
+Name: Cove Zip Hoodie
+Category: Fashion
+Brand: Cove
+Description: Discover the Cove Zip Hoodie, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this fashion essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-catalog-172
+Name: Dakota Activewear Set
+Category: Fashion
+Brand: Dakota
+Description: Discover the Dakota Activewear Set, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this fashion essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-catalog-167
+Name: Dakota Casual Jacket
+Category: Fashion
+Brand: Dakota
+Description: Discover the Dakota Casual Jacket, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this fashion essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-catalog-165
+Name: Dakota Classic Trousers
+Category: Fashion
+Brand: Dakota
+Description: Discover the Dakota Classic Trousers, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this fashion essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-catalog-171
+Name: Dakota Cotton Kurta
+Category: Fashion
+Brand: Dakota
+Description: Discover the Dakota Cotton Kurta, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this fashion essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-catalog-168
+Name: Dakota Everyday Sneakers
+Category: Fashion
+Brand: Dakota
+Description: Discover the Dakota Everyday Sneakers, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this fashion essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-catalog-170
+Name: Dakota Formal Blazer
+Category: Fashion
+Brand: Dakota
+Description: Discover the Dakota Formal Blazer, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this fashion essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-catalog-163
+Name: Dakota Polo Shirt
+Category: Fashion
+Brand: Dakota
+Description: Discover the Dakota Polo Shirt, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this fashion essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-catalog-162
+Name: Dakota Premium T-Shirt
+Category: Fashion
+Brand: Dakota
+Description: Discover the Dakota Premium T-Shirt, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this fashion essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-catalog-164
+Name: Dakota Straight-Fit Jeans
+Category: Fashion
+Brand: Dakota
+Description: Discover the Dakota Straight-Fit Jeans, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this fashion essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-catalog-169
+Name: Dakota Summer Dress
+Category: Fashion
+Brand: Dakota
+Description: Discover the Dakota Summer Dress, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this fashion essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-catalog-161
+Name: Dakota Tailored Shirt
+Category: Fashion
+Brand: Dakota
+Description: Discover the Dakota Tailored Shirt, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this fashion essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-catalog-166
+Name: Dakota Zip Hoodie
+Category: Fashion
+Brand: Dakota
+Description: Discover the Dakota Zip Hoodie, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this fashion essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-catalog-184
+Name: Dune Activewear Set
+Category: Fashion
+Brand: Dune
+Description: Discover the Dune Activewear Set, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this fashion essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-catalog-179
+Name: Dune Casual Jacket
+Category: Fashion
+Brand: Dune
+Description: Discover the Dune Casual Jacket, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this fashion essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-catalog-177
+Name: Dune Classic Trousers
+Category: Fashion
+Brand: Dune
+Description: Discover the Dune Classic Trousers, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this fashion essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-catalog-183
+Name: Dune Cotton Kurta
+Category: Fashion
+Brand: Dune
+Description: Discover the Dune Cotton Kurta, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this fashion essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-catalog-180
+Name: Dune Everyday Sneakers
+Category: Fashion
+Brand: Dune
+Description: Discover the Dune Everyday Sneakers, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this fashion essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-catalog-182
+Name: Dune Formal Blazer
+Category: Fashion
+Brand: Dune
+Description: Discover the Dune Formal Blazer, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this fashion essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-catalog-175
+Name: Dune Polo Shirt
+Category: Fashion
+Brand: Dune
+Description: Discover the Dune Polo Shirt, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this fashion essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-catalog-174
+Name: Dune Premium T-Shirt
+Category: Fashion
+Brand: Dune
+Description: Discover the Dune Premium T-Shirt, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this fashion essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-catalog-176
+Name: Dune Straight-Fit Jeans
+Category: Fashion
+Brand: Dune
+Description: Discover the Dune Straight-Fit Jeans, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this fashion essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-catalog-181
+Name: Dune Summer Dress
+Category: Fashion
+Brand: Dune
+Description: Discover the Dune Summer Dress, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this fashion essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-catalog-173
+Name: Dune Tailored Shirt
+Category: Fashion
+Brand: Dune
+Description: Discover the Dune Tailored Shirt, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this fashion essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-catalog-178
+Name: Dune Zip Hoodie
+Category: Fashion
+Brand: Dune
+Description: Discover the Dune Zip Hoodie, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this fashion essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-catalog-196
+Name: Eden Activewear Set
+Category: Fashion
+Brand: Eden
+Description: Discover the Eden Activewear Set, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this fashion essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-catalog-191
+Name: Eden Casual Jacket
+Category: Fashion
+Brand: Eden
+Description: Discover the Eden Casual Jacket, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this fashion essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-catalog-189
+Name: Eden Classic Trousers
+Category: Fashion
+Brand: Eden
+Description: Discover the Eden Classic Trousers, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this fashion essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-catalog-195
+Name: Eden Cotton Kurta
+Category: Fashion
+Brand: Eden
+Description: Discover the Eden Cotton Kurta, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this fashion essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-catalog-192
+Name: Eden Everyday Sneakers
+Category: Fashion
+Brand: Eden
+Description: Discover the Eden Everyday Sneakers, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this fashion essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-catalog-194
+Name: Eden Formal Blazer
+Category: Fashion
+Brand: Eden
+Description: Discover the Eden Formal Blazer, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this fashion essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-catalog-187
+Name: Eden Polo Shirt
+Category: Fashion
+Brand: Eden
+Description: Discover the Eden Polo Shirt, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this fashion essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-catalog-186
+Name: Eden Premium T-Shirt
+Category: Fashion
+Brand: Eden
+Description: Discover the Eden Premium T-Shirt, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this fashion essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-catalog-188
+Name: Eden Straight-Fit Jeans
+Category: Fashion
+Brand: Eden
+Description: Discover the Eden Straight-Fit Jeans, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this fashion essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-catalog-193
+Name: Eden Summer Dress
+Category: Fashion
+Brand: Eden
+Description: Discover the Eden Summer Dress, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this fashion essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-catalog-185
+Name: Eden Tailored Shirt
+Category: Fashion
+Brand: Eden
+Description: Discover the Eden Tailored Shirt, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this fashion essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-catalog-190
+Name: Eden Zip Hoodie
+Category: Fashion
+Brand: Eden
+Description: Discover the Eden Zip Hoodie, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this fashion essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-catalog-208
+Name: Elara Activewear Set
+Category: Fashion
+Brand: Elara
+Description: Discover the Elara Activewear Set, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this fashion essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-catalog-203
+Name: Elara Casual Jacket
+Category: Fashion
+Brand: Elara
+Description: Discover the Elara Casual Jacket, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this fashion essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-catalog-201
+Name: Elara Classic Trousers
+Category: Fashion
+Brand: Elara
+Description: Discover the Elara Classic Trousers, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this fashion essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-catalog-207
+Name: Elara Cotton Kurta
+Category: Fashion
+Brand: Elara
+Description: Discover the Elara Cotton Kurta, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this fashion essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-catalog-204
+Name: Elara Everyday Sneakers
+Category: Fashion
+Brand: Elara
+Description: Discover the Elara Everyday Sneakers, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this fashion essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-catalog-206
+Name: Elara Formal Blazer
+Category: Fashion
+Brand: Elara
+Description: Discover the Elara Formal Blazer, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this fashion essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-catalog-199
+Name: Elara Polo Shirt
+Category: Fashion
+Brand: Elara
+Description: Discover the Elara Polo Shirt, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this fashion essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-catalog-198
+Name: Elara Premium T-Shirt
+Category: Fashion
+Brand: Elara
+Description: Discover the Elara Premium T-Shirt, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this fashion essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-catalog-200
+Name: Elara Straight-Fit Jeans
+Category: Fashion
+Brand: Elara
+Description: Discover the Elara Straight-Fit Jeans, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this fashion essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-catalog-205
+Name: Elara Summer Dress
+Category: Fashion
+Brand: Elara
+Description: Discover the Elara Summer Dress, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this fashion essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-catalog-197
+Name: Elara Tailored Shirt
+Category: Fashion
+Brand: Elara
+Description: Discover the Elara Tailored Shirt, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this fashion essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-catalog-202
+Name: Elara Zip Hoodie
+Category: Fashion
+Brand: Elara
+Description: Discover the Elara Zip Hoodie, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this fashion essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-catalog-220
+Name: Ember Activewear Set
+Category: Fashion
+Brand: Ember
+Description: Discover the Ember Activewear Set, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this fashion essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-catalog-215
+Name: Ember Casual Jacket
+Category: Fashion
+Brand: Ember
+Description: Discover the Ember Casual Jacket, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this fashion essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-catalog-213
+Name: Ember Classic Trousers
+Category: Fashion
+Brand: Ember
+Description: Discover the Ember Classic Trousers, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this fashion essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-catalog-219
+Name: Ember Cotton Kurta
+Category: Fashion
+Brand: Ember
+Description: Discover the Ember Cotton Kurta, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this fashion essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-catalog-216
+Name: Ember Everyday Sneakers
+Category: Fashion
+Brand: Ember
+Description: Discover the Ember Everyday Sneakers, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this fashion essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-catalog-218
+Name: Ember Formal Blazer
+Category: Fashion
+Brand: Ember
+Description: Discover the Ember Formal Blazer, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this fashion essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-catalog-211
+Name: Ember Polo Shirt
+Category: Fashion
+Brand: Ember
+Description: Discover the Ember Polo Shirt, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this fashion essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-catalog-210
+Name: Ember Premium T-Shirt
+Category: Fashion
+Brand: Ember
+Description: Discover the Ember Premium T-Shirt, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this fashion essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-catalog-212
+Name: Ember Straight-Fit Jeans
+Category: Fashion
+Brand: Ember
+Description: Discover the Ember Straight-Fit Jeans, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this fashion essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-catalog-217
+Name: Ember Summer Dress
+Category: Fashion
+Brand: Ember
+Description: Discover the Ember Summer Dress, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this fashion essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-catalog-209
+Name: Ember Tailored Shirt
+Category: Fashion
+Brand: Ember
+Description: Discover the Ember Tailored Shirt, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this fashion essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-catalog-214
+Name: Ember Zip Hoodie
+Category: Fashion
+Brand: Ember
+Description: Discover the Ember Zip Hoodie, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this fashion essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-demo-015
+Name: Essential Knitwear Sweater
+Category: Fashion
+Brand: Northline
+Description: Introduce a layer of understated refinement to your wardrobe. This contemporary knitwear essential offers versatile styling potential for relaxed weekends, transitional weather and thoughtfully assembled outfits.
+------------------------------
+ID: nova-catalog-232
+Name: Everest Activewear Set
+Category: Fashion
+Brand: Everest
+Description: Discover the Everest Activewear Set, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this fashion essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-catalog-227
+Name: Everest Casual Jacket
+Category: Fashion
+Brand: Everest
+Description: Discover the Everest Casual Jacket, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this fashion essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-catalog-225
+Name: Everest Classic Trousers
+Category: Fashion
+Brand: Everest
+Description: Discover the Everest Classic Trousers, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this fashion essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-catalog-231
+Name: Everest Cotton Kurta
+Category: Fashion
+Brand: Everest
+Description: Discover the Everest Cotton Kurta, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this fashion essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-catalog-228
+Name: Everest Everyday Sneakers
+Category: Fashion
+Brand: Everest
+Description: Discover the Everest Everyday Sneakers, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this fashion essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-catalog-230
+Name: Everest Formal Blazer
+Category: Fashion
+Brand: Everest
+Description: Discover the Everest Formal Blazer, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this fashion essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-catalog-223
+Name: Everest Polo Shirt
+Category: Fashion
+Brand: Everest
+Description: Discover the Everest Polo Shirt, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this fashion essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-catalog-222
+Name: Everest Premium T-Shirt
+Category: Fashion
+Brand: Everest
+Description: Discover the Everest Premium T-Shirt, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this fashion essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-catalog-224
+Name: Everest Straight-Fit Jeans
+Category: Fashion
+Brand: Everest
+Description: Discover the Everest Straight-Fit Jeans, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this fashion essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-catalog-229
+Name: Everest Summer Dress
+Category: Fashion
+Brand: Everest
+Description: Discover the Everest Summer Dress, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this fashion essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-catalog-221
+Name: Everest Tailored Shirt
+Category: Fashion
+Brand: Everest
+Description: Discover the Everest Tailored Shirt, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this fashion essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-catalog-226
+Name: Everest Zip Hoodie
+Category: Fashion
+Brand: Everest
+Description: Discover the Everest Zip Hoodie, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this fashion essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-catalog-244
+Name: Flora Activewear Set
+Category: Fashion
+Brand: Flora
+Description: Discover the Flora Activewear Set, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this fashion essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-catalog-239
+Name: Flora Casual Jacket
+Category: Fashion
+Brand: Flora
+Description: Discover the Flora Casual Jacket, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this fashion essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-catalog-237
+Name: Flora Classic Trousers
+Category: Fashion
+Brand: Flora
+Description: Discover the Flora Classic Trousers, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this fashion essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-catalog-243
+Name: Flora Cotton Kurta
+Category: Fashion
+Brand: Flora
+Description: Discover the Flora Cotton Kurta, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this fashion essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-catalog-240
+Name: Flora Everyday Sneakers
+Category: Fashion
+Brand: Flora
+Description: Discover the Flora Everyday Sneakers, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this fashion essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-catalog-242
+Name: Flora Formal Blazer
+Category: Fashion
+Brand: Flora
+Description: Discover the Flora Formal Blazer, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this fashion essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-catalog-235
+Name: Flora Polo Shirt
+Category: Fashion
+Brand: Flora
+Description: Discover the Flora Polo Shirt, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this fashion essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-catalog-234
+Name: Flora Premium T-Shirt
+Category: Fashion
+Brand: Flora
+Description: Discover the Flora Premium T-Shirt, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this fashion essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-catalog-236
+Name: Flora Straight-Fit Jeans
+Category: Fashion
+Brand: Flora
+Description: Discover the Flora Straight-Fit Jeans, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this fashion essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-catalog-241
+Name: Flora Summer Dress
+Category: Fashion
+Brand: Flora
+Description: Discover the Flora Summer Dress, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this fashion essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-catalog-233
+Name: Flora Tailored Shirt
+Category: Fashion
+Brand: Flora
+Description: Discover the Flora Tailored Shirt, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this fashion essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-catalog-238
+Name: Flora Zip Hoodie
+Category: Fashion
+Brand: Flora
+Description: Discover the Flora Zip Hoodie, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this fashion essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-catalog-256
+Name: Harper Activewear Set
+Category: Fashion
+Brand: Harper
+Description: Discover the Harper Activewear Set, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this fashion essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-catalog-251
+Name: Harper Casual Jacket
+Category: Fashion
+Brand: Harper
+Description: Discover the Harper Casual Jacket, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this fashion essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-catalog-249
+Name: Harper Classic Trousers
+Category: Fashion
+Brand: Harper
+Description: Discover the Harper Classic Trousers, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this fashion essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-catalog-255
+Name: Harper Cotton Kurta
+Category: Fashion
+Brand: Harper
+Description: Discover the Harper Cotton Kurta, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this fashion essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-catalog-252
+Name: Harper Everyday Sneakers
+Category: Fashion
+Brand: Harper
+Description: Discover the Harper Everyday Sneakers, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this fashion essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-catalog-254
+Name: Harper Formal Blazer
+Category: Fashion
+Brand: Harper
+Description: Discover the Harper Formal Blazer, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this fashion essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-catalog-247
+Name: Harper Polo Shirt
+Category: Fashion
+Brand: Harper
+Description: Discover the Harper Polo Shirt, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this fashion essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-catalog-246
+Name: Harper Premium T-Shirt
+Category: Fashion
+Brand: Harper
+Description: Discover the Harper Premium T-Shirt, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this fashion essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-catalog-248
+Name: Harper Straight-Fit Jeans
+Category: Fashion
+Brand: Harper
+Description: Discover the Harper Straight-Fit Jeans, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this fashion essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-catalog-253
+Name: Harper Summer Dress
+Category: Fashion
+Brand: Harper
+Description: Discover the Harper Summer Dress, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this fashion essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-catalog-245
+Name: Harper Tailored Shirt
+Category: Fashion
+Brand: Harper
+Description: Discover the Harper Tailored Shirt, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this fashion essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-catalog-250
+Name: Harper Zip Hoodie
+Category: Fashion
+Brand: Harper
+Description: Discover the Harper Zip Hoodie, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this fashion essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-catalog-268
+Name: Haven Activewear Set
+Category: Fashion
+Brand: Haven
+Description: Discover the Haven Activewear Set, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this fashion essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-catalog-263
+Name: Haven Casual Jacket
+Category: Fashion
+Brand: Haven
+Description: Discover the Haven Casual Jacket, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this fashion essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-catalog-261
+Name: Haven Classic Trousers
+Category: Fashion
+Brand: Haven
+Description: Discover the Haven Classic Trousers, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this fashion essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-catalog-267
+Name: Haven Cotton Kurta
+Category: Fashion
+Brand: Haven
+Description: Discover the Haven Cotton Kurta, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this fashion essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-catalog-264
+Name: Haven Everyday Sneakers
+Category: Fashion
+Brand: Haven
+Description: Discover the Haven Everyday Sneakers, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this fashion essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-catalog-266
+Name: Haven Formal Blazer
+Category: Fashion
+Brand: Haven
+Description: Discover the Haven Formal Blazer, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this fashion essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-catalog-259
+Name: Haven Polo Shirt
+Category: Fashion
+Brand: Haven
+Description: Discover the Haven Polo Shirt, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this fashion essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-catalog-258
+Name: Haven Premium T-Shirt
+Category: Fashion
+Brand: Haven
+Description: Discover the Haven Premium T-Shirt, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this fashion essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-catalog-260
+Name: Haven Straight-Fit Jeans
+Category: Fashion
+Brand: Haven
+Description: Discover the Haven Straight-Fit Jeans, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this fashion essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-catalog-265
+Name: Haven Summer Dress
+Category: Fashion
+Brand: Haven
+Description: Discover the Haven Summer Dress, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this fashion essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-catalog-257
+Name: Haven Tailored Shirt
+Category: Fashion
+Brand: Haven
+Description: Discover the Haven Tailored Shirt, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this fashion essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-catalog-262
+Name: Haven Zip Hoodie
+Category: Fashion
+Brand: Haven
+Description: Discover the Haven Zip Hoodie, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this fashion essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-demo-012
+Name: Heritage Oxford Shirt
+Category: Fashion
+Brand: Heritage Co.
+Description: A wardrobe essential defined by clean lines and enduring versatility. Its refined appearance lends itself to smart-casual combinations, offering a considered approach to everyday dressing.
+------------------------------
+ID: nova-catalog-280
+Name: Indigo Activewear Set
+Category: Fashion
+Brand: Indigo
+Description: Discover the Indigo Activewear Set, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this fashion essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-catalog-275
+Name: Indigo Casual Jacket
+Category: Fashion
+Brand: Indigo
+Description: Discover the Indigo Casual Jacket, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this fashion essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-catalog-273
+Name: Indigo Classic Trousers
+Category: Fashion
+Brand: Indigo
+Description: Discover the Indigo Classic Trousers, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this fashion essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-catalog-279
+Name: Indigo Cotton Kurta
+Category: Fashion
+Brand: Indigo
+Description: Discover the Indigo Cotton Kurta, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this fashion essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-catalog-276
+Name: Indigo Everyday Sneakers
+Category: Fashion
+Brand: Indigo
+Description: Discover the Indigo Everyday Sneakers, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this fashion essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-catalog-278
+Name: Indigo Formal Blazer
+Category: Fashion
+Brand: Indigo
+Description: Discover the Indigo Formal Blazer, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this fashion essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-catalog-271
+Name: Indigo Polo Shirt
+Category: Fashion
+Brand: Indigo
+Description: Discover the Indigo Polo Shirt, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this fashion essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-catalog-270
+Name: Indigo Premium T-Shirt
+Category: Fashion
+Brand: Indigo
+Description: Discover the Indigo Premium T-Shirt, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this fashion essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-catalog-272
+Name: Indigo Straight-Fit Jeans
+Category: Fashion
+Brand: Indigo
+Description: Discover the Indigo Straight-Fit Jeans, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this fashion essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-catalog-277
+Name: Indigo Summer Dress
+Category: Fashion
+Brand: Indigo
+Description: Discover the Indigo Summer Dress, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this fashion essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-catalog-269
+Name: Indigo Tailored Shirt
+Category: Fashion
+Brand: Indigo
+Description: Discover the Indigo Tailored Shirt, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this fashion essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-catalog-274
+Name: Indigo Zip Hoodie
+Category: Fashion
+Brand: Indigo
+Description: Discover the Indigo Zip Hoodie, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this fashion essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-catalog-292
+Name: Isla Activewear Set
+Category: Fashion
+Brand: Isla
+Description: Discover the Isla Activewear Set, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this fashion essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-catalog-287
+Name: Isla Casual Jacket
+Category: Fashion
+Brand: Isla
+Description: Discover the Isla Casual Jacket, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this fashion essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-catalog-285
+Name: Isla Classic Trousers
+Category: Fashion
+Brand: Isla
+Description: Discover the Isla Classic Trousers, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this fashion essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-catalog-291
+Name: Isla Cotton Kurta
+Category: Fashion
+Brand: Isla
+Description: Discover the Isla Cotton Kurta, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this fashion essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-catalog-288
+Name: Isla Everyday Sneakers
+Category: Fashion
+Brand: Isla
+Description: Discover the Isla Everyday Sneakers, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this fashion essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-catalog-290
+Name: Isla Formal Blazer
+Category: Fashion
+Brand: Isla
+Description: Discover the Isla Formal Blazer, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this fashion essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-catalog-283
+Name: Isla Polo Shirt
+Category: Fashion
+Brand: Isla
+Description: Discover the Isla Polo Shirt, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this fashion essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-catalog-282
+Name: Isla Premium T-Shirt
+Category: Fashion
+Brand: Isla
+Description: Discover the Isla Premium T-Shirt, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this fashion essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-catalog-284
+Name: Isla Straight-Fit Jeans
+Category: Fashion
+Brand: Isla
+Description: Discover the Isla Straight-Fit Jeans, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this fashion essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-catalog-289
+Name: Isla Summer Dress
+Category: Fashion
+Brand: Isla
+Description: Discover the Isla Summer Dress, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this fashion essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-catalog-281
+Name: Isla Tailored Shirt
+Category: Fashion
+Brand: Isla
+Description: Discover the Isla Tailored Shirt, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this fashion essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-catalog-286
+Name: Isla Zip Hoodie
+Category: Fashion
+Brand: Isla
+Description: Discover the Isla Zip Hoodie, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this fashion essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-catalog-304
+Name: Jade Activewear Set
+Category: Fashion
+Brand: Jade
+Description: Discover the Jade Activewear Set, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this fashion essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-catalog-299
+Name: Jade Casual Jacket
+Category: Fashion
+Brand: Jade
+Description: Discover the Jade Casual Jacket, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this fashion essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-catalog-297
+Name: Jade Classic Trousers
+Category: Fashion
+Brand: Jade
+Description: Discover the Jade Classic Trousers, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this fashion essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-catalog-303
+Name: Jade Cotton Kurta
+Category: Fashion
+Brand: Jade
+Description: Discover the Jade Cotton Kurta, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this fashion essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-catalog-300
+Name: Jade Everyday Sneakers
+Category: Fashion
+Brand: Jade
+Description: Discover the Jade Everyday Sneakers, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this fashion essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-catalog-302
+Name: Jade Formal Blazer
+Category: Fashion
+Brand: Jade
+Description: Discover the Jade Formal Blazer, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this fashion essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-catalog-295
+Name: Jade Polo Shirt
+Category: Fashion
+Brand: Jade
+Description: Discover the Jade Polo Shirt, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this fashion essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-catalog-294
+Name: Jade Premium T-Shirt
+Category: Fashion
+Brand: Jade
+Description: Discover the Jade Premium T-Shirt, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this fashion essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-catalog-296
+Name: Jade Straight-Fit Jeans
+Category: Fashion
+Brand: Jade
+Description: Discover the Jade Straight-Fit Jeans, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this fashion essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-catalog-301
+Name: Jade Summer Dress
+Category: Fashion
+Brand: Jade
+Description: Discover the Jade Summer Dress, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this fashion essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-catalog-293
+Name: Jade Tailored Shirt
+Category: Fashion
+Brand: Jade
+Description: Discover the Jade Tailored Shirt, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this fashion essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-catalog-298
+Name: Jade Zip Hoodie
+Category: Fashion
+Brand: Jade
+Description: Discover the Jade Zip Hoodie, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this fashion essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-catalog-316
+Name: Juniper Activewear Set
+Category: Fashion
+Brand: Juniper
+Description: Discover the Juniper Activewear Set, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this fashion essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-catalog-311
+Name: Juniper Casual Jacket
+Category: Fashion
+Brand: Juniper
+Description: Discover the Juniper Casual Jacket, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this fashion essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-catalog-309
+Name: Juniper Classic Trousers
+Category: Fashion
+Brand: Juniper
+Description: Discover the Juniper Classic Trousers, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this fashion essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-catalog-315
+Name: Juniper Cotton Kurta
+Category: Fashion
+Brand: Juniper
+Description: Discover the Juniper Cotton Kurta, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this fashion essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-catalog-312
+Name: Juniper Everyday Sneakers
+Category: Fashion
+Brand: Juniper
+Description: Discover the Juniper Everyday Sneakers, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this fashion essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-catalog-314
+Name: Juniper Formal Blazer
+Category: Fashion
+Brand: Juniper
+Description: Discover the Juniper Formal Blazer, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this fashion essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-catalog-307
+Name: Juniper Polo Shirt
+Category: Fashion
+Brand: Juniper
+Description: Discover the Juniper Polo Shirt, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this fashion essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-catalog-306
+Name: Juniper Premium T-Shirt
+Category: Fashion
+Brand: Juniper
+Description: Discover the Juniper Premium T-Shirt, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this fashion essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-catalog-308
+Name: Juniper Straight-Fit Jeans
+Category: Fashion
+Brand: Juniper
+Description: Discover the Juniper Straight-Fit Jeans, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this fashion essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-catalog-313
+Name: Juniper Summer Dress
+Category: Fashion
+Brand: Juniper
+Description: Discover the Juniper Summer Dress, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this fashion essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-catalog-305
+Name: Juniper Tailored Shirt
+Category: Fashion
+Brand: Juniper
+Description: Discover the Juniper Tailored Shirt, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this fashion essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-catalog-310
+Name: Juniper Zip Hoodie
+Category: Fashion
+Brand: Juniper
+Description: Discover the Juniper Zip Hoodie, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this fashion essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-catalog-328
+Name: Kai Activewear Set
+Category: Fashion
+Brand: Kai
+Description: Discover the Kai Activewear Set, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this fashion essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-catalog-323
+Name: Kai Casual Jacket
+Category: Fashion
+Brand: Kai
+Description: Discover the Kai Casual Jacket, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this fashion essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-catalog-321
+Name: Kai Classic Trousers
+Category: Fashion
+Brand: Kai
+Description: Discover the Kai Classic Trousers, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this fashion essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-catalog-327
+Name: Kai Cotton Kurta
+Category: Fashion
+Brand: Kai
+Description: Discover the Kai Cotton Kurta, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this fashion essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-catalog-324
+Name: Kai Everyday Sneakers
+Category: Fashion
+Brand: Kai
+Description: Discover the Kai Everyday Sneakers, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this fashion essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-catalog-326
+Name: Kai Formal Blazer
+Category: Fashion
+Brand: Kai
+Description: Discover the Kai Formal Blazer, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this fashion essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-catalog-319
+Name: Kai Polo Shirt
+Category: Fashion
+Brand: Kai
+Description: Discover the Kai Polo Shirt, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this fashion essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-catalog-318
+Name: Kai Premium T-Shirt
+Category: Fashion
+Brand: Kai
+Description: Discover the Kai Premium T-Shirt, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this fashion essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-catalog-320
+Name: Kai Straight-Fit Jeans
+Category: Fashion
+Brand: Kai
+Description: Discover the Kai Straight-Fit Jeans, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this fashion essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-catalog-325
+Name: Kai Summer Dress
+Category: Fashion
+Brand: Kai
+Description: Discover the Kai Summer Dress, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this fashion essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-catalog-317
+Name: Kai Tailored Shirt
+Category: Fashion
+Brand: Kai
+Description: Discover the Kai Tailored Shirt, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this fashion essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-catalog-322
+Name: Kai Zip Hoodie
+Category: Fashion
+Brand: Kai
+Description: Discover the Kai Zip Hoodie, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this fashion essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-catalog-331
+Name: Kensington Polo Shirt
+Category: Fashion
+Brand: Kensington
+Description: Discover the Kensington Polo Shirt, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this fashion essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-catalog-330
+Name: Kensington Premium T-Shirt
+Category: Fashion
+Brand: Kensington
+Description: Discover the Kensington Premium T-Shirt, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this fashion essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-catalog-332
+Name: Kensington Straight-Fit Jeans
+Category: Fashion
+Brand: Kensington
+Description: Discover the Kensington Straight-Fit Jeans, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this fashion essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-catalog-329
+Name: Kensington Tailored Shirt
+Category: Fashion
+Brand: Kensington
+Description: Discover the Kensington Tailored Shirt, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this fashion essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-demo-010
+Name: Maison Everyday Sneakers
+Category: Fashion
+Brand: Maison Street
+Description: A modern interpretation of everyday footwear, balancing understated styling with versatile appeal. Pair these sneakers with relaxed essentials or elevated casual ensembles for an effortlessly composed look.
+------------------------------
+ID: nova-demo-013
+Name: Noir Premium Denim
+Category: Fashion
+Brand: Noir Collective
+Description: Reimagine casual dressing with denim that brings timeless character to a contemporary wardrobe. Its versatile styling makes it easy to create considered looks across seasons and occasions.
+------------------------------
+ID: nova-demo-014
+Name: Sculpted Leather Loafers
+Category: Fashion
+Brand: Sculpted
+Description: A sophisticated footwear statement with a streamlined profile and versatile appeal. These loafers bring a polished finishing touch to tailored ensembles and elevated everyday attire.
+------------------------------
+ID: nova-demo-016
+Name: Urban Utility Jacket
+Category: Fashion
+Brand: Urban Form
+Description: Inspired by contemporary city dressing, this utility jacket combines a purposeful aesthetic with versatile everyday styling. An adaptable outer layer for those who appreciate functional design and modern character.
+------------------------------
+ID: nova-demo-009
+Name: Élan Tailored Blazer
+Category: Fashion
+Brand: Élan Atelier
+Description: Define a polished wardrobe with this elegantly tailored blazer. Its structured silhouette and timeless character create a sophisticated foundation for professional settings, refined occasions and contemporary styling.
+------------------------------
+ID: nova-catalog-415
+Name: Arden Coffee Table
+Category: Furniture
+Brand: Arden
+Description: Discover the Arden Coffee Table, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this furniture essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-catalog-413
+Name: Arden Lounge Chair
+Category: Furniture
+Brand: Arden
+Description: Discover the Arden Lounge Chair, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this furniture essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-catalog-414
+Name: Arden Modern Sofa
+Category: Furniture
+Brand: Arden
+Description: Discover the Arden Modern Sofa, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this furniture essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-catalog-417
+Name: Arden Queen Bed
+Category: Furniture
+Brand: Arden
+Description: Discover the Arden Queen Bed, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this furniture essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-catalog-416
+Name: Arden Study Desk
+Category: Furniture
+Brand: Arden
+Description: Discover the Arden Study Desk, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this furniture essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-catalog-390
+Name: Forma Coffee Table
+Category: Furniture
+Brand: Forma
+Description: Discover the Forma Coffee Table, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this furniture essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-catalog-388
+Name: Forma Lounge Chair
+Category: Furniture
+Brand: Forma
+Description: Discover the Forma Lounge Chair, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this furniture essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-catalog-389
+Name: Forma Modern Sofa
+Category: Furniture
+Brand: Forma
+Description: Discover the Forma Modern Sofa, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this furniture essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-catalog-392
+Name: Forma Queen Bed
+Category: Furniture
+Brand: Forma
+Description: Discover the Forma Queen Bed, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this furniture essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-catalog-391
+Name: Forma Study Desk
+Category: Furniture
+Brand: Forma
+Description: Discover the Forma Study Desk, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this furniture essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-catalog-410
+Name: Haven Coffee Table
+Category: Furniture
+Brand: Haven
+Description: Discover the Haven Coffee Table, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this furniture essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-catalog-408
+Name: Haven Lounge Chair
+Category: Furniture
+Brand: Haven
+Description: Discover the Haven Lounge Chair, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this furniture essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-catalog-409
+Name: Haven Modern Sofa
+Category: Furniture
+Brand: Haven
+Description: Discover the Haven Modern Sofa, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this furniture essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-catalog-412
+Name: Haven Queen Bed
+Category: Furniture
+Brand: Haven
+Description: Discover the Haven Queen Bed, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this furniture essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-catalog-411
+Name: Haven Study Desk
+Category: Furniture
+Brand: Haven
+Description: Discover the Haven Study Desk, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this furniture essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-catalog-420
+Name: Luxe Coffee Table
+Category: Furniture
+Brand: Luxe
+Description: Discover the Luxe Coffee Table, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this furniture essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-catalog-418
+Name: Luxe Lounge Chair
+Category: Furniture
+Brand: Luxe
+Description: Discover the Luxe Lounge Chair, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this furniture essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-catalog-419
+Name: Luxe Modern Sofa
+Category: Furniture
+Brand: Luxe
+Description: Discover the Luxe Modern Sofa, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this furniture essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-catalog-422
+Name: Luxe Queen Bed
+Category: Furniture
+Brand: Luxe
+Description: Discover the Luxe Queen Bed, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this furniture essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-catalog-421
+Name: Luxe Study Desk
+Category: Furniture
+Brand: Luxe
+Description: Discover the Luxe Study Desk, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this furniture essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-catalog-385
+Name: Monarch Coffee Table
+Category: Furniture
+Brand: Monarch
+Description: Discover the Monarch Coffee Table, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this furniture essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-catalog-383
+Name: Monarch Lounge Chair
+Category: Furniture
+Brand: Monarch
+Description: Discover the Monarch Lounge Chair, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this furniture essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-catalog-384
+Name: Monarch Modern Sofa
+Category: Furniture
+Brand: Monarch
+Description: Discover the Monarch Modern Sofa, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this furniture essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-catalog-387
+Name: Monarch Queen Bed
+Category: Furniture
+Brand: Monarch
+Description: Discover the Monarch Queen Bed, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this furniture essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-catalog-386
+Name: Monarch Study Desk
+Category: Furniture
+Brand: Monarch
+Description: Discover the Monarch Study Desk, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this furniture essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-catalog-380
+Name: Nordic Coffee Table
+Category: Furniture
+Brand: Nordic
+Description: Discover the Nordic Coffee Table, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this furniture essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-catalog-378
+Name: Nordic Lounge Chair
+Category: Furniture
+Brand: Nordic
+Description: Discover the Nordic Lounge Chair, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this furniture essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-catalog-379
+Name: Nordic Modern Sofa
+Category: Furniture
+Brand: Nordic
+Description: Discover the Nordic Modern Sofa, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this furniture essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-catalog-382
+Name: Nordic Queen Bed
+Category: Furniture
+Brand: Nordic
+Description: Discover the Nordic Queen Bed, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this furniture essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-catalog-381
+Name: Nordic Study Desk
+Category: Furniture
+Brand: Nordic
+Description: Discover the Nordic Study Desk, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this furniture essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-catalog-405
+Name: Oakwood Coffee Table
+Category: Furniture
+Brand: Oakwood
+Description: Discover the Oakwood Coffee Table, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this furniture essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-catalog-403
+Name: Oakwood Lounge Chair
+Category: Furniture
+Brand: Oakwood
+Description: Discover the Oakwood Lounge Chair, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this furniture essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-catalog-404
+Name: Oakwood Modern Sofa
+Category: Furniture
+Brand: Oakwood
+Description: Discover the Oakwood Modern Sofa, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this furniture essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-catalog-407
+Name: Oakwood Queen Bed
+Category: Furniture
+Brand: Oakwood
+Description: Discover the Oakwood Queen Bed, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this furniture essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-catalog-406
+Name: Oakwood Study Desk
+Category: Furniture
+Brand: Oakwood
+Description: Discover the Oakwood Study Desk, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this furniture essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-catalog-400
+Name: Serene Coffee Table
+Category: Furniture
+Brand: Serene
+Description: Discover the Serene Coffee Table, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this furniture essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-catalog-398
+Name: Serene Lounge Chair
+Category: Furniture
+Brand: Serene
+Description: Discover the Serene Lounge Chair, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this furniture essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-catalog-399
+Name: Serene Modern Sofa
+Category: Furniture
+Brand: Serene
+Description: Discover the Serene Modern Sofa, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this furniture essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-catalog-402
+Name: Serene Queen Bed
+Category: Furniture
+Brand: Serene
+Description: Discover the Serene Queen Bed, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this furniture essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-catalog-401
+Name: Serene Study Desk
+Category: Furniture
+Brand: Serene
+Description: Discover the Serene Study Desk, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this furniture essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-catalog-395
+Name: Urban Coffee Table
+Category: Furniture
+Brand: Urban
+Description: Discover the Urban Coffee Table, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this furniture essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-catalog-393
+Name: Urban Lounge Chair
+Category: Furniture
+Brand: Urban
+Description: Discover the Urban Lounge Chair, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this furniture essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-catalog-394
+Name: Urban Modern Sofa
+Category: Furniture
+Brand: Urban
+Description: Discover the Urban Modern Sofa, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this furniture essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-catalog-397
+Name: Urban Queen Bed
+Category: Furniture
+Brand: Urban
+Description: Discover the Urban Queen Bed, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this furniture essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-catalog-396
+Name: Urban Study Desk
+Category: Furniture
+Brand: Urban
+Description: Discover the Urban Study Desk, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this furniture essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-catalog-425
+Name: Arcadia Bedding Set
+Category: Home & Living
+Brand: Arcadia
+Description: Discover the Arcadia Bedding Set, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this home & living essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-demo-018
+Name: Arcadia Ceramic Table Lamp
+Category: Home & Living
+Brand: Arcadia
+Description: Introduce a softer ambience through a thoughtfully styled ceramic lamp. Its understated presence complements contemporary interiors while bringing warmth and visual balance to bedside tables, consoles and reading corners.
+------------------------------
+ID: nova-catalog-426
+Name: Arcadia Cushion Set
+Category: Home & Living
+Brand: Arcadia
+Description: Discover the Arcadia Cushion Set, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this home & living essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-catalog-424
+Name: Arcadia Decorative Vase
+Category: Home & Living
+Brand: Arcadia
+Description: Discover the Arcadia Decorative Vase, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this home & living essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-catalog-427
+Name: Arcadia Kitchen Storage Set
+Category: Home & Living
+Brand: Arcadia
+Description: Discover the Arcadia Kitchen Storage Set, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this home & living essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-catalog-423
+Name: Arcadia Table Lamp
+Category: Home & Living
+Brand: Arcadia
+Description: Discover the Arcadia Table Lamp, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this home & living essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-catalog-435
+Name: Atelier Bedding Set
+Category: Home & Living
+Brand: Atelier
+Description: Discover the Atelier Bedding Set, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this home & living essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-catalog-436
+Name: Atelier Cushion Set
+Category: Home & Living
+Brand: Atelier
+Description: Discover the Atelier Cushion Set, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this home & living essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-demo-023
+Name: Atelier Decorative Vase
+Category: Home & Living
+Brand: Atelier Objects
+Description: An expressive decorative accent that adds sculptural interest to curated interiors. Display it independently or incorporate it into a considered arrangement of books, florals and treasured objects.
+------------------------------
+ID: nova-catalog-434
+Name: Atelier Decorative Vase
+Category: Home & Living
+Brand: Atelier
+Description: Discover the Atelier Decorative Vase, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this home & living essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-catalog-437
+Name: Atelier Kitchen Storage Set
+Category: Home & Living
+Brand: Atelier
+Description: Discover the Atelier Kitchen Storage Set, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this home & living essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-catalog-433
+Name: Atelier Table Lamp
+Category: Home & Living
+Brand: Atelier
+Description: Discover the Atelier Table Lamp, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this home & living essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-catalog-450
+Name: Botanical Bedding Set
+Category: Home & Living
+Brand: Botanical
+Description: Discover the Botanical Bedding Set, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this home & living essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-catalog-451
+Name: Botanical Cushion Set
+Category: Home & Living
+Brand: Botanical
+Description: Discover the Botanical Cushion Set, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this home & living essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-catalog-449
+Name: Botanical Decorative Vase
+Category: Home & Living
+Brand: Botanical
+Description: Discover the Botanical Decorative Vase, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this home & living essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-catalog-452
+Name: Botanical Kitchen Storage Set
+Category: Home & Living
+Brand: Botanical
+Description: Discover the Botanical Kitchen Storage Set, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this home & living essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-catalog-448
+Name: Botanical Table Lamp
+Category: Home & Living
+Brand: Botanical
+Description: Discover the Botanical Table Lamp, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this home & living essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-catalog-430
+Name: Cloudline Bedding Set
+Category: Home & Living
+Brand: Cloudline
+Description: Discover the Cloudline Bedding Set, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this home & living essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-catalog-431
+Name: Cloudline Cushion Set
+Category: Home & Living
+Brand: Cloudline
+Description: Discover the Cloudline Cushion Set, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this home & living essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-catalog-429
+Name: Cloudline Decorative Vase
+Category: Home & Living
+Brand: Cloudline
+Description: Discover the Cloudline Decorative Vase, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this home & living essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-catalog-432
+Name: Cloudline Kitchen Storage Set
+Category: Home & Living
+Brand: Cloudline
+Description: Discover the Cloudline Kitchen Storage Set, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this home & living essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-demo-024
+Name: Cloudline Premium Bedding Set
+Category: Home & Living
+Brand: Cloudline
+Description: Reimagine the bedroom as a serene personal retreat with an elegantly presented bedding ensemble. Its timeless aesthetic brings a composed, inviting finish to contemporary bedroom interiors.
+------------------------------
+ID: nova-catalog-428
+Name: Cloudline Table Lamp
+Category: Home & Living
+Brand: Cloudline
+Description: Discover the Cloudline Table Lamp, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this home & living essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-demo-017
+Name: Forma Sculptural Lounge Chair
+Category: Home & Living
+Brand: Forma Living
+Description: Transform your interior with a statement chair defined by sculptural character and contemporary elegance. Its expressive form creates a considered focal point for sophisticated living spaces.
+------------------------------
+ID: nova-demo-021
+Name: Luxe Ambient Floor Lamp
+Category: Home & Living
+Brand: Luxe Habitat
+Description: Create an inviting atmosphere with a floor lamp that balances functional illumination and sculptural appeal. Its contemporary character makes it a striking addition to reading areas and modern interiors.
+------------------------------
+ID: nova-catalog-445
+Name: Luxe Bedding Set
+Category: Home & Living
+Brand: Luxe
+Description: Discover the Luxe Bedding Set, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this home & living essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-catalog-446
+Name: Luxe Cushion Set
+Category: Home & Living
+Brand: Luxe
+Description: Discover the Luxe Cushion Set, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this home & living essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-catalog-444
+Name: Luxe Decorative Vase
+Category: Home & Living
+Brand: Luxe
+Description: Discover the Luxe Decorative Vase, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this home & living essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-catalog-447
+Name: Luxe Kitchen Storage Set
+Category: Home & Living
+Brand: Luxe
+Description: Discover the Luxe Kitchen Storage Set, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this home & living essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-catalog-443
+Name: Luxe Table Lamp
+Category: Home & Living
+Brand: Luxe
+Description: Discover the Luxe Table Lamp, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this home & living essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-demo-019
+Name: Monarch Minimalist Coffee Table
+Category: Home & Living
+Brand: Monarch House
+Description: A refined furniture statement designed to anchor modern living spaces. Its minimalist character pairs effortlessly with a variety of interior styles, creating an elegant centrepiece for everyday gatherings.
+------------------------------
+ID: nova-demo-022
+Name: Nordic Accent Side Table
+Category: Home & Living
+Brand: Nordic House
+Description: Bring considered simplicity to your living space with an accent table inspired by contemporary design. Its versatile proportions make it a natural companion beside a sofa, armchair or bedside.
+------------------------------
+ID: nova-catalog-455
+Name: Nordic Bedding Set
+Category: Home & Living
+Brand: Nordic
+Description: Discover the Nordic Bedding Set, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this home & living essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-catalog-456
+Name: Nordic Cushion Set
+Category: Home & Living
+Brand: Nordic
+Description: Discover the Nordic Cushion Set, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this home & living essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-catalog-454
+Name: Nordic Decorative Vase
+Category: Home & Living
+Brand: Nordic
+Description: Discover the Nordic Decorative Vase, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this home & living essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-catalog-457
+Name: Nordic Kitchen Storage Set
+Category: Home & Living
+Brand: Nordic
+Description: Discover the Nordic Kitchen Storage Set, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this home & living essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-catalog-453
+Name: Nordic Table Lamp
+Category: Home & Living
+Brand: Nordic
+Description: Discover the Nordic Table Lamp, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this home & living essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-catalog-440
+Name: Serene Bedding Set
+Category: Home & Living
+Brand: Serene
+Description: Discover the Serene Bedding Set, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this home & living essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-catalog-441
+Name: Serene Cushion Set
+Category: Home & Living
+Brand: Serene
+Description: Discover the Serene Cushion Set, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this home & living essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-catalog-439
+Name: Serene Decorative Vase
+Category: Home & Living
+Brand: Serene
+Description: Discover the Serene Decorative Vase, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this home & living essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-catalog-442
+Name: Serene Kitchen Storage Set
+Category: Home & Living
+Brand: Serene
+Description: Discover the Serene Kitchen Storage Set, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this home & living essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-catalog-438
+Name: Serene Table Lamp
+Category: Home & Living
+Brand: Serene
+Description: Discover the Serene Table Lamp, thoughtfully selected for a contemporary lifestyle. Combining an appealing design with versatile everyday character, this home & living essential brings quality-inspired style and a refined look to your collection.
+------------------------------
+ID: nova-demo-020
+Name: Serene Textured Cushion Set
+Category: Home & Living
+Brand: Serene Studio
+Description: Elevate your interior styling with a considered blend of texture and visual softness. These decorative cushions introduce depth and personality to sofas, lounge chairs and thoughtfully curated spaces.
+------------------------------
